@@ -52,9 +52,9 @@ Sumber data publik resmi (BPS & Data.go.id):
 - Cluster 2: Internet tinggi, guru seimbang  
 
 ## Recommendations
-1. Cluster 0: Optimalkan distribusi guru + pelatihan e-learning.  
-2. Cluster 1: Prioritaskan pembangunan infrastruktur digital.  
-3. Cluster 2: Perluas program pelatihan digital guru (PDGD).  
+- Cluster 0: Optimalkan distribusi guru + pelatihan e-learning.  
+- Cluster 1: Prioritaskan pembangunan infrastruktur digital.  
+- Cluster 2: Perluas program pelatihan digital guru (PDGD).  
 
 ## AI Support Explanation
 - IBM Granite digunakan untuk interpretasi cluster → memberi insight yang lebih kaya daripada sekadar angka.  
